@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himnish
 - 👀 I’m interested in coding and learning new ways to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on basic python projects
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on basic C projects
 - 📫 How to reach me : solarrobot35@gmail.com
 
 <!---
